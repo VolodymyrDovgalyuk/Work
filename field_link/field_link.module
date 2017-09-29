@@ -1,5 +1,13 @@
+
 <?php
 /**
-* @file
-* A description of what your module does.
-*/
+ * @file
+ * Code for the field_link module.
+ */
+
+/**
+ * Implements hook_views_api().
+ */
+function field_link_views_api() {
+  return array('api' => 3);
+}

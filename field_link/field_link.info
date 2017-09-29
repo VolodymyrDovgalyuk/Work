@@ -4,5 +4,8 @@ core = "7.x"
 package = "Custom module"
 project = "field_link"
 
-;Dependecies
-dependencies[]= views
+; Dependencies
+dependencies[] = views
+
+
+files[]="includes/field_link_handler.inc"
