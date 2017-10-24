@@ -127,6 +127,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../OpenServer/domains/appleboom/sites/all/modules/custom/mymodule_s" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -151,12 +152,12 @@
       <option name="presentableId" value="Default" />
       <updated>1506623948024</updated>
       <workItem from="1506623952126" duration="312000" />
-      <workItem from="1506675815433" duration="7680000" />
+      <workItem from="1506675815433" duration="8344000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7992000" />
+    <option name="totallyTimeSpent" value="8656000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />

@@ -1,0 +1,13 @@
+name = 'mymodule_s'.
+description = 'Some views api module'.
+core = '7.x'
+package 	= 'Custom module'
+project 	= 'mymodule_s'
+
+
+; Dependencies
+dependencies[] = views
+
+files[] = includes/MY_FIELD_HANDLER.inc
+files[] = includes/MY_ID_HANDLER_ARGUMENT.inc
+files[] = includes/MY_HANDLER_FIELD_OPERATION.inc
